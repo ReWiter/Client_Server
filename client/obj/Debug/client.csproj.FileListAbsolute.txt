@@ -1,0 +1,14 @@
+E:\Курсовая\5\client\bin\Debug\client.exe.config
+E:\Курсовая\5\client\bin\Debug\client.exe
+E:\Курсовая\5\client\bin\Debug\client.pdb
+E:\Курсовая\5\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\Курсовая\5\client\obj\Debug\client.Properties.Resources.resources
+E:\Курсовая\5\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\Курсовая\5\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\Курсовая\5\client\obj\Debug\client.exe
+E:\Курсовая\5\client\obj\Debug\client.pdb
+E:\Курсовая\5\client\obj\Debug\client.Send.resources
+E:\Курсовая\5\client\obj\Debug\client.Client.resources
+E:\Курсовая\5\client\obj\Debug\client.csproj.Up2Date
+E:\Курсовая\5\client\bin\Debug\devil.dll
+E:\Курсовая\5\client\bin\Debug\devil.pdb
