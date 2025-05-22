@@ -1,0 +1,6 @@
+E:\Курсовая\devil\bin\Debug\devil.dll
+E:\Курсовая\devil\bin\Debug\devil.pdb
+E:\Курсовая\devil\obj\Debug\devil.csproj.AssemblyReference.cache
+E:\Курсовая\devil\obj\Debug\devil.csproj.CoreCompileInputs.cache
+E:\Курсовая\devil\obj\Debug\devil.dll
+E:\Курсовая\devil\obj\Debug\devil.pdb
