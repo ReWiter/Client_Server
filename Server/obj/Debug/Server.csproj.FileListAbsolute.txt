@@ -1,0 +1,114 @@
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\Npgsql.pdb
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\obj\Debug\Server.Form1.resources
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\Новая папка\Курсовая\3\Server\obj\Debug\Server.pdb
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\Server.exe.config
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\Server.exe
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\Server.pdb
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\EntityFramework.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\EntityFramework6.Npgsql.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\Npgsql.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Buffers.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Memory.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Numerics.Vectors.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Text.Encodings.Web.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Text.Json.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.ValueTuple.dll
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\EntityFramework.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\EntityFramework6.Npgsql.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\Npgsql.pdb
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\Npgsql.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Buffers.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Memory.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Numerics.Vectors.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Text.Encodings.Web.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Text.Json.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\bin\Debug\System.ValueTuple.xml
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\obj\Debug\Server.csproj.Up2Date
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\obj\Debug\Server.exe
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\obj\Debug\Server.pdb
+E:\Курсовая\отправка таблицы от сервера клиенту\Server\obj\Debug\Server.Server.resources
+E:\Курсовая\5\Server\bin\Debug\Server.exe.config
+E:\Курсовая\5\Server\bin\Debug\Server.exe
+E:\Курсовая\5\Server\bin\Debug\Server.pdb
+E:\Курсовая\5\Server\bin\Debug\EntityFramework.dll
+E:\Курсовая\5\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсовая\5\Server\bin\Debug\EntityFramework6.Npgsql.dll
+E:\Курсовая\5\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Курсовая\5\Server\bin\Debug\Npgsql.dll
+E:\Курсовая\5\Server\bin\Debug\System.Buffers.dll
+E:\Курсовая\5\Server\bin\Debug\System.Memory.dll
+E:\Курсовая\5\Server\bin\Debug\System.Numerics.Vectors.dll
+E:\Курсовая\5\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Курсовая\5\Server\bin\Debug\System.Text.Encodings.Web.dll
+E:\Курсовая\5\Server\bin\Debug\System.Text.Json.dll
+E:\Курсовая\5\Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Курсовая\5\Server\bin\Debug\System.ValueTuple.dll
+E:\Курсовая\5\Server\bin\Debug\EntityFramework.xml
+E:\Курсовая\5\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсовая\5\Server\bin\Debug\EntityFramework6.Npgsql.xml
+E:\Курсовая\5\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Курсовая\5\Server\bin\Debug\Npgsql.pdb
+E:\Курсовая\5\Server\bin\Debug\Npgsql.xml
+E:\Курсовая\5\Server\bin\Debug\System.Buffers.xml
+E:\Курсовая\5\Server\bin\Debug\System.Memory.xml
+E:\Курсовая\5\Server\bin\Debug\System.Numerics.Vectors.xml
+E:\Курсовая\5\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Курсовая\5\Server\bin\Debug\System.Text.Encodings.Web.xml
+E:\Курсовая\5\Server\bin\Debug\System.Text.Json.xml
+E:\Курсовая\5\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Курсовая\5\Server\bin\Debug\System.ValueTuple.xml
+E:\Курсовая\5\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Курсовая\5\Server\obj\Debug\Server.Server.resources
+E:\Курсовая\5\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Курсовая\5\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Курсовая\5\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Курсовая\5\Server\obj\Debug\Server.exe
+E:\Курсовая\5\Server\obj\Debug\Server.pdb
+E:\Курсовая\5\Server\obj\Debug\Server.csproj.Up2Date
